@@ -1,0 +1,5 @@
+How to excute the crawl process:
+
+on the path: ~/totalenergiesStartups
+
+execute: $ scrapy crawl startups -O startupsx.json
